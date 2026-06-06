@@ -126,3 +126,4 @@ curl http://localhost:8000/knowledge-base/stats
 
 **降幻觉设计**
 System Prompt 硬约束：仅依据研报材料作答；无依据时显式声明"研报中未提及"；回答附带具体来源（机构·日期），可追溯核查。
+# langgraph-agent
