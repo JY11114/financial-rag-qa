@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.env
+.DS_Store
+chroma_db/
+ragas_results.csv
+*.bin
+*.sqlite3

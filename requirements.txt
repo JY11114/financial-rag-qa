@@ -1,0 +1,14 @@
+anthropic
+langchain
+langchain-anthropic
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+sentence-transformers
+rank-bm25
+jieba
+fastapi
+uvicorn[standard]
+ragas
+openai
